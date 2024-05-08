@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.main-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.booking-data {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.image {
+  height: 200px;
+}
